@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModularDesktopApplication", "ModularDesktopApplication\ModularDesktopApplication.csproj", "{074B5E55-17F4-48AC-B889-F3599F42E08C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionAdapter", "ExtensionAdapter\ExtensionAdapter.csproj", "{73724080-5251-45F4-B0CB-818DD550B152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074B5E55-17F4-48AC-B889-F3599F42E08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074B5E55-17F4-48AC-B889-F3599F42E08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074B5E55-17F4-48AC-B889-F3599F42E08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074B5E55-17F4-48AC-B889-F3599F42E08C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73724080-5251-45F4-B0CB-818DD550B152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73724080-5251-45F4-B0CB-818DD550B152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73724080-5251-45F4-B0CB-818DD550B152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73724080-5251-45F4-B0CB-818DD550B152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF226B7E-9850-4DC7-8F68-D672033A1705}
+	EndGlobalSection
+EndGlobal
